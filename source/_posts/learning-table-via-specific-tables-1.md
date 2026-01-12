@@ -1,8 +1,8 @@
 ---
-title: earning table via specific tables
-date: 2026-01-12 13:50:37
-tags: col 
-        scope
+title: learning table via specific tables
+date: 2026-01-12 14:37:20
+tags: scope
+        col
         rowspan
 ---
 <table>

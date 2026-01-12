@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: my web-security learning blog
 subtitle: ''
-description: ''
+description: 'there share my code learned from my journey of web-security learning'
 keywords:
-author: John Doe
+author: dianzhongdian258
 language: en
 timezone: ''
 
