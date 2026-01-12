@@ -36,3 +36,5 @@ tags: scope
 </tr>
 </tbody>
 </table>
+
+what we should notice carefully is the attribute "rowspan",when rowspan=3,the "dog"occupied  space where three seperate,empty table cells(td element) were supposed to be 
